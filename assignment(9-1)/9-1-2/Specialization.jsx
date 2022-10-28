@@ -1,7 +1,7 @@
 import React from "react";
 import DialogComponent from "./DialogComponent";
 
-const specialization = function() {
+const Specialization = function() {
 
     return (
         <div>
@@ -13,4 +13,4 @@ const specialization = function() {
     );
 }
 
-export default specialization;
+export default Specialization;
