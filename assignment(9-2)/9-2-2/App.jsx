@@ -69,7 +69,7 @@ function App() {
             {userState == null ? (
                 <></>
             ) : (
-                <p>{userState}</p>
+                <p style={{color: "red"}}>{userState}</p>
             )}
             <p></p>
             <div>
